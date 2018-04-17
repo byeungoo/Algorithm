@@ -1,0 +1,25 @@
+안녕하세요, 매일프로그래밍 이번주 문제입니다.
+ 
+정수 배열(int array)가 주어지면 가장 큰 이어지는 원소들의 합을 구하시오. 단, 시간복잡도는 O(n).
+
+?
+
+예제}
+
+Input: [-1, 3, -1, 5]
+
+Output: 7 // 3 + (-1) + 5
+
+
+
+Input: [-5, -3, -1]
+
+Output: -1 // -1
+
+
+
+Input: [2, 4, -2, -3, 8]
+
+Output: 9 // 2 + 4 + (-2) + (-3) + 8
+
+풀이: https://mailprogramming.com/solution/1?email=rngnsdl6598@gmail.com&token=e46925cce6096f456c2fd7203c3a8ce99649226456d8b631ce5594fd81050381
